@@ -72,6 +72,15 @@ body {
 .top {
     margin-top: 20px;
 }
+.border {
+    border-top: 2px solid rgb(11, 137, 196);
+}
+.border-insta {
+    border-top: 2px solid #e95950;
+}
+.border-youtube {
+    border-top: 2px solid red;
+}
 .col-1-4 h2 {
     font-size: 64px;
     font-weight: 800;
